@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KeshavGulati
-- 👀 I’m interested in anythign coding.
+- 👀 I’m interested in anything coding.
 - 🌱 I’m currently learning front-end web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email: keshavgulati785@gmail.com
