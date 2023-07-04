@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KeshavGulati
 - 👀 I’m interested in anything coding.
-- 🏫 I am studying Computer Science as an undergrad at the University of Maryland, College Park.
-- 🌱 I’m also learning front-end web development.
+- 🏫 I am majoring in Computer Science with a minor in Statistics at the University of Maryland, College Park.
+- 🌱 I’m also learning front-end web development, machine learning, and data science.
 - 📫 How to reach me: 
   - Email: keshavgulati785@gmail.com
   - LinkedIn: www.linkedin.com/in/keshav-gulati
